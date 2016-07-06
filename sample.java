@@ -1,4 +1,4 @@
-import java.util.ArrayList;
+iimport java.util.ArrayList;
 
 class sample {
   public static ArrayList<String> name_list;
@@ -11,6 +11,6 @@ class sample {
   }
   public static void add(){
     name_list.add("toshi");
-    name_list.add("syun");
+    name_list.add("syunya");
   }
 }
