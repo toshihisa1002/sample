@@ -11,5 +11,6 @@ class sample {
   }
   public static void add(){
     name_list.add("toshi");
+    name_list.add("syun");
   }
 }
